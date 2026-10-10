@@ -8,6 +8,14 @@
 			"providers": [],
 			"checksum": "sha256:742fd9b8ff6778db3da237055a7e0f381c13f8405c972b13723346a880126c4d",
 			"updatedAt": "2026-10-07"
+		},
+		"2.0.1": {
+			"artifacts": [
+				"https://github.com/Golevka2001/section-marker-rev/releases/download/section-marker-rev@2.0.1/section-marker-rev@2.0.1.zip"
+			],
+			"providers": [],
+			"checksum": "sha256:eeccfc29c4a5ab9b32ae349faa4ded693e0d95a9af3aead3bc7bee91204f1ad3",
+			"updatedAt": "2026-10-10"
 		}
 	},
 	"metadata": {
